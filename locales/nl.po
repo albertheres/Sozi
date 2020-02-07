@@ -81,11 +81,11 @@ msgstr "Het bestand is geen correct SVG bestand."
 
 #: js/Storage.js:141 js/Storage.js:147
 msgid "Document was changed. Reloading."
-msgstr "Het bestand was gewijzigd. Bezig met opnieuw laden."
+msgstr "Het bestand is gewijzigd. Bezig met opnieuw laden."
 
 #: js/Storage.js:156
 msgid "Document was changed."
-msgstr "Het bestand werd gewijzigd."
+msgstr "Het bestand is gewijzigd."
 
 #: js/Storage.js:182
 msgid "Document was imported from Sozi 13 or earlier."
@@ -114,7 +114,7 @@ msgstr "Presentatie opslaan"
 
 #: js/view/Properties.js:45 js/view/Toolbar.js:96
 msgid "Redo"
-msgstr "Herhaal"
+msgstr "Herhalen"
 
 #: js/view/Properties.js:46 js/view/Toolbar.js:91
 msgid "Undo"
@@ -158,7 +158,7 @@ msgstr "Als Sozi niet actief is"
 
 #: js/view/Properties.js:70 js/view/Properties.js:76
 msgid "Manually"
-msgstr "Manueel"
+msgstr "Handmatig"
 
 #: js/view/Properties.js:74
 msgid "Automatically"
@@ -206,7 +206,7 @@ msgstr "Ctrl+0: Paragraaf"
 
 #: js/view/Properties.js:102
 msgid "Ctrl+1: Big header"
-msgstr "Ctrl+1: grote titel"
+msgstr "Ctrl+1: Grote titel"
 
 #: js/view/Properties.js:103
 msgid "Ctrl+2: Medium header"
